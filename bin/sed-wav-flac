@@ -1,0 +1,6 @@
+#!/bin/bash
+     for fl in *.sfz; do
+     mv $fl $fl.old
+     sed 's/.wav/.flac/g' $fl.old > $fl
+     rm -f $fl.old
+     done

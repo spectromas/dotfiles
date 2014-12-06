@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#pacman -Qqen > ~/Documents/Configs/pacmanQqen
+#pacman -Qqem > ~/Documents/Configs/pacmanQqem
+equery list "*" > ~/Documents/Configs/emerged_list
+sudo mount /boot
+sudo rsync -av --exclude-from=excludelist --delete / /media/sdc1-usb-Mass_Storage_Dev
+sudo umount /boot

@@ -1,0 +1,2 @@
+#!/bin/bash
+wget -qO- "$1" | grep -Eo 'i.4cdn.org/[^"]+' | uniq | xargs wget -nc

@@ -1,0 +1,50 @@
+{
+  "store_checked": {
+    "Project Gutenberg": true, 
+    "Pragmatic Bookshelf": true, 
+    "Koobe": true, 
+    "ManyBooks": false, 
+    "MobileRead": true, 
+    "OZON.ru": true, 
+    "EbooksGratuits.com": false, 
+    "Baen Ebooks": false, 
+    "Smashwords": false, 
+    "Archive.org": true, 
+    "Open Books": false, 
+    "Virtualo": false, 
+    "RW2010": false
+  }, 
+  "timeout": 75, 
+  "sort_col": 2, 
+  "max_results": 10, 
+  "config_dialog_tab_index": 1, 
+  "cache_thread_count": 2, 
+  "sort_order": 0, 
+  "first_run": false, 
+  "geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywABAAAAAAGlAAAATgAABQ4AAAKxAAABpgAAAE8AAAUNAAACsAAAAAAAAA=="
+  }, 
+  "details_thread_count": 4, 
+  "open_external": true, 
+  "search_thread_count": 4, 
+  "hang_time": 75, 
+  "config_dialog_geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywABAAAAAAAbAAAAWQAAAzoAAAKwAAAAGwAAAFkAAAM6AAACsAAAAAAAAA=="
+  }, 
+  "cover_thread_count": 2, 
+  "results_view_column_width": [
+    85, 
+    206, 
+    61, 
+    77, 
+    127, 
+    29, 
+    20
+  ], 
+  "store_splitter_state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAAAAAACAAAAVwAAAQABAAAABwEAAAAB"
+  }
+}

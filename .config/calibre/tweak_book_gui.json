@@ -1,0 +1,26 @@
+{
+  "recent-books": [
+    "/home/alex/Downloads/hgb130407e/Aaronson-Quantum_Computing_since_Democritus.epub"
+  ], 
+  "main_window_geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywABAAAAAAIHAAABDQAABVUAAAL/AAACCAAAAQ4AAAVUAAAC/gAAAAAAAA=="
+  }, 
+  "find-widget-state": {
+    "direction": "down", 
+    "case_sensitive": false, 
+    "mode": "normal", 
+    "wrap": true, 
+    "where": "current", 
+    "dot_all": false
+  }, 
+  "main_window_state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAD9AAAABAAAAAAAAACqAAABnfwCAAAAA/sAAAAkAGYAaQBsAGUAcwAtAGIAcgBvAHcAcwBlAHIALQBkAG8AYwBrAQAAAEEAAAGdAAAAaAD////7AAAAHgB0AG8AYwAtAHYAaQBlAHcAZQByAC0AZABvAGMAawAAAAAA/////wAAAGgA////+wAAACAAYwBoAGUAYwBrAHAAbwBpAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAAJgA////AAAAAQAAAXIAAAGd/AIAAAAC+wAAABgAcAByAGUAdgBpAGUAdwAtAGQAbwBjAGsBAAAAQQAAAZ0AAABAAP////sAAAAaAGwAaQB2AGUALQBjAHMAcwAtAGQAbwBjAGsAAAAAAP////8AAABtAP///wAAAAIAAAAAAAAAAPwBAAAAAfsAAAAeAGMAaABlAGMAawAtAGIAbwBvAGsALQBkAG8AYwBrAAAAAAD/////AAAArQD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABpAG4AcwBwAGUAYwB0AG8AcgAtAGQAbwBjAGsAAAAAAP////8AAABCAP///wAAASMAAAGdAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGcAbABvAGIAYQBsAC0AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAC0AYgBhAHIBAAABGv////8AAAAAAAAAAAAAABYAcABsAHUAZwBpAG4AcwAtAGIAYQByAAAAAAD/////AAAAAAAAAAA="
+  }, 
+  "search-panel-visible": false, 
+  "check-book-splitter-state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAAAAAACAAAAUwAAAFMAAAAABwEAAAAB"
+  }
+}

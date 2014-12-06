@@ -1,0 +1,36 @@
+# Write your default config options here!
+#vo=opengl-hq
+#cscale=lanczos2
+#scaler-resizes-only
+#fancy-downscaling
+#af=drc
+softvol=yes
+volume=25
+softvol-max=400
+
+# Save the video position on quit
+save-position-on-quit
+
+# use alsa for audio output
+ao=jack
+#ao=alsa
+
+# set the window title using the media filename, when not set with --title.
+title="${filename}"
+
+# add black borders so the movies have the same aspect ratio of the monitor
+# for wide screen monitors
+#vf=expand=::::1:16/9:16
+
+# skip displaying some frames to maintain A/V sync on slow systems
+#framedrop=yes
+
+#sub-text-font="Source Sans Pro Semibold"
+#sub-text-font-size=50
+#sub-text-margin-y=36
+#sub-text-color="#ffffffff"
+#sub-text-border-color="#ff262626"
+#sub-text-border-size=3.2
+#sub-text-shadow-offset=1
+#sub-text-shadow-color="#33000000"
+#sub-text-spacing=0.5

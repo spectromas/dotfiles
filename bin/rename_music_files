@@ -1,0 +1,44 @@
+#!/usr/bin/perl 
+use MP3::Tag; 
+use warnings; 
+use strict; 
+
+foreach my $filename (@ARGV) { 
+   # get file info 
+   my $mp3 = MP3::Tag->new($filename); 
+   my ($title, $track, $artist, $album, $comment, $year, $genre) = $mp3->autoinfo(); 
+   $mp3->close(); 
+
+   # 01 02 03 etc looks nicer than 1 2 3 etc in filenames 
+   $track = "0$track" if $track and $track > 0 and $track < 9; 
+
+   # replace / with - since / is forbidden in unix filenames 
+   $album =~ s|/|-|; 
+   $artist =~ s|/|-|; 
+   $title =~ s|/|-|; 
+
+   # determine destination path 
+   # set it to unknown if tag doesn't exist 
+   my $destpath; 
+   $destpath .= "unknown artist/" unless $artist; 
+   $destpath .= "$artist/" if $artist; 
+   $destpath .= "unknown album/" unless $album; 
+   $destpath .= "$album ($year)/" if $album and $year; 
+   $destpath .= "$album/" if $album and not $year; 
+
+   # determine destination filename 
+   # make sure to generate a unique filename if a title doesn't exist 
+   my $destfilename; 
+   $destfilename .= "$track. " if $track; 
+   $destfilename .= "$title" if $title; 
+   $destfilename .= "unknown " . int(rand(10)) . int(rand(10)) . int(rand(10)) . int(rand(10)) unless $title; 
+   $destfilename .= ".mp3"; 
+
+   # create file path 
+   `mkdir -p -- \"$destpath\"`; 
+
+   # rename file 
+   # use mv -i to make sure that we don't overwrite anything important 
+   print "mv -i \"$filename\" \"$destpath$destfilename\"\n"; 
+   `mv -i -- \"$filename\" \"$destpath$destfilename\"`; 
+} 
