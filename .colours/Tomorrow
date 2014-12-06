@@ -1,0 +1,26 @@
+URxvt*foreground: #fafafa
+URxvt*background: #4d4d4c
+! Black + Grey (Comment)
+URxvt*color0:       #000000
+URxvt*color8:       #8e908c
+! Red + Bright Red
+URxvt*color1:       #c82829
+URxvt*color9:       #ff3334
+! Green + Bright Green
+URxvt*color2:       #718c00
+URxvt*color10:      #9ec400
+! Yellow (Orange) + Bright Yellow (Yellow)
+URxvt*color3:       #f5871f
+URxvt*color11:      #eab700
+! Blue + Bright Blue
+URxvt*color4:       #4271ae
+URxvt*color12:      #5795e6
+! Magenta (Purple) + Bright Magenta
+URxvt*color5:       #8959a8
+URxvt*color13:      #b777e0
+! Cyan (Aqua) + Bright Cyan
+URxvt*color6:       #3e999f
+URxvt*color14:      #54ced6
+! Light Grey (Selection) + White (Current Line)
+URxvt*color7:       #d6d6d6
+URxvt*color15:      #efefef

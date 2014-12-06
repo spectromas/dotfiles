@@ -1,0 +1,112 @@
+!#include "/home/alex/.colours/baskerville_lighter"
+!#include "/home/alex/.colours/sexcolors"
+!#include "/home/alex/.colours/obliviousgmn"
+!#include "/home/alex/.colours/mirodark"
+!#include "/home/alex/.colours/mems"
+!#include "/home/alex/.colours/lostwoods"
+!#include "/home/alex/.colours/julie"
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#include "/home/alex/.colours/gutter2"
+!#include "/home/alex/.colours/jschilli"
+!#include "/home/alex/.colours/invisibone"
+!#include "/home/alex/.colours/water-light"
+!#include "/home/alex/.colours/water"
+!!!!!!#include "/home/alex/.colours/vintage2"
+!#include "/home/alex/.colours/zr0"
+!#include "/home/alex/.colours/dotdev"
+!#include "/home/alex/.colours/dotdev_new"
+#include "/home/alex/.colours/barrage2"
+!#include "/home/alex/.colours/beastie2"
+!#include "/home/alex/.colours/jellybean2"
+!#include "/home/alex/.colours/time_to_trim_yer_beard"
+!#include "/home/alex/.colours/Satori"
+!#include "/home/alex/.colours/projektile"
+!#include "/home/alex/.colours/projektile-new"
+!#include "/home/alex/.colours/rdln"
+!#include "/home/alex/.colours/z1lt0id"
+!#include "/home/alex/.colours/jwr-dark"
+!#include "/home/alex/.colours/I Can't Believe It's Not Butter"
+!#include "/home/alex/.colours//fiddler"
+!#include "/home/alex/.colours//danuce"
+
+! Urxvt -----------------------------------------------------------
+!URxvt.depth: 		32
+urxvt*geometry: 	92x22
+urxvt*internalBorder:	5	
+urxvt*scrollBar: 	false
+URxvt.urgentOnBell:  	true
+URxvt.colorUL: 		#0088CC
+URxvt*iconFile:		/home/alex/.icons/Faenza/apps/16/urxvt.png 
+URxvt*saveLines: 	9999
+URxvt*pointerBlank: 	True
+!URxvt.letterSpace: 	-2
+!urxvt*dynamicColors: 	on
+!URxvt.fading: 20
+!URxvt.fadeColor: [0]black
+
+urxvt*font:             xft:Termsyn:size=10:antialias=false
+urxvt*boldFont:         xft:Termsyn:bold:size=10:antialias=false
+urxvt*italicFont:       xft:Termsyn:italic:size=10:antialias=false
+
+!URxvt*font: 		xft:Terminus:antialias=false:pixelsize=11
+!URxvt*boldFont: 	xft:Terminus:style=bold:antialias=false:pixelsize=11
+!URxvt*italicFont: 	xft:Terminus:style=italic:antialias=false:pixelsize=11
+!URxvt*boldItalicFont: 	xft:Terminus:style=bolditalic:antialias=false:pixelsize=11
+
+!URxvt*font: 		xft:Fira Mono OT:antialias=true:pixelsize=11
+!URxvt*boldFont: 	xft:Fira Mono OT:style=bold:antialias=true:pixelsize=11
+!URxvt*italicFont: 	xft:Fira Mono OT:style=italic:antialias=true:pixelsize=11
+!URxvt*boldItalicFont: 	xft:Fira Mono OT:style=bolditalic:antialias=true:pixelsize=11
+
+!URxvt*font: 		xft:Droid Sans Mono:antialias=true:pixelsize=11
+!URxvt*boldFont: 	xft:Droid Sans Mono:style=bold:antialias=true:pixelsize=11
+!URxvt*italicFont: 	xft:Droid Sans Mono:style=italic:antialias=true:pixelsize=11
+!URxvt*boldItalicFont: 	xft:Droid Sans Mono:style=bolditalic:antialias=true:pixelsize=11
+
+! URxvt-Perls ------------------------------------------------------
+URxvt*altSendsEscape:       true
+URxvt.perl-ext-common:      default,clipboard,keyboard-select,url-select,
+!font-size
+URxvt.keysym.M-c:           perl:clipboard:copy
+URxvt.keysym.M-v:           perl:clipboard:paste
+URxvt.keysym.M-C-v:         perl:clipboard:paste_escaped
+URxvt.keysym.M-Escape:      perl:keyboard-select:activate
+URxvt.keysym.M-s:           perl:keyboard-select:search
+URxvt.keysym.M-u:           perl:url-select:select_next
+! j/k: Select next downward/upward URL (also with arrow keys)
+! g/G: Select first/last URL (also with home/end key)
+! o/Return: Open selected URL in browser, Return: deactivate afterwards
+! y: Copy (yank) selected URL and deactivate selection mode
+! q/Escape: Deactivate URL selection mode
+URxvt.keysym.C-Up:     perl:font-size:increase
+URxvt.keysym.C-Down:   perl:font-size:decrease
+URxvt.keysym.C-S-Up:   perl:font-size:incglobal
+URxvt.keysym.C-S-Down: perl:font-size:decglobal
+URxvt.iso14755: false
+URxvt.iso14755_52: false
+URxvt.url-select.button:    1
+URxvt.url-select.launcher: firefox 
+URxvt.url-select.underline: true
+
+! Font settings ----------------------------------------------------
+!Xft.autohint: 0
+!Xft.lcdfilter:  lcddefault
+!Xft.hintstyle:  hintfull
+!Xft.hinting: 1
+!Xft.antialias: 1
+!Xft.dpi: 96
+!Xft.rgba: rgb
+
+! Colors -----------------------------------------------------------
+
+! tab bar colors
+! URxvt.tabbed.tabbar-fg: 7
+! URxvt.tabbed.tabbar-bg: 0
+! URxvt.tabbed.tab-fg:    3
+! URxvt.tabbed.tab-bg:    0
+
+! man pages
+*colorBD: 1
+*colorUL: 3
+*colorIT: #5ab45a
+
+

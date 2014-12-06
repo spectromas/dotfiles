@@ -1,0 +1,10 @@
+/dev
+/sys
+/proc
+/mnt
+/media
+/tmp/*
+/run
+/usr/portage/distfiles/*
+/var/tmp/ccache
+/lost+found

@@ -1,0 +1,21 @@
+"3.8.3 (created: 2014/11/09 13:19:01)
+
+nmap <C-j> :contrast<Space>10<Return>
+nmap <C-k> :contrast<Space>-10<Return>
+nmap J gt
+nmap K gT
+noremap j 3j
+noremap k 3k
+set editor=leafpad
+set hintchars=hjklasdfgyuiopqwertnmzxcvb
+set maxitems=13
+set noscrollbars
+style! -name=toolbar-background chrome://* #liberator-customize-toolbar { padding-left: 5px !important; -moz-appearance: none !important; }
+style! -name=sbmcommentviewer chrome://* .liberator-sbmcommentsviewer-content { border-color: #ccc !important; }
+style! -name=statusbar chrome://* <<EOF
+#status-bar statusbarpanel { padding: 0 1px !important; }
+statusbarpanel > * { margin: 0 !important; padding: 0 2px 0 0 !important; }
+EOF
+source! /home/alex/.vimperatorrc.local
+
+" vim: set ft=vimperator:

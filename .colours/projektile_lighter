@@ -1,0 +1,23 @@
+urxvt*background: #151515
+!URxvt*background:	#090909
+URxvt*foreground: #aaaaaa
+!URxvt*foreground: #605e5a
+!urxvt*foreground: #d8d8d8
+!urxvt*foreground: #c0c0c0
+
+urxvt*color0: #a6a6a6
+urxvt*color1: #8c5b3e
+urxvt*color2: #80764d
+urxvt*color3: #917154
+urxvt*color4: #596875
+urxvt*color5: #6e464b
+urxvt*color6: #3b585b
+urxvt*color7: #222222
+urxvt*color8: #505050
+urxvt*color9: #9f6744
+urxvt*color10: #80785a
+urxvt*color11: #917963
+urxvt*color12: #656d75
+urxvt*color13: #6e5155
+urxvt*color14: #525F61
+urxvt*color15: #888888
