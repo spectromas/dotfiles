@@ -6,7 +6,7 @@
 .weechat/sec.conf
 .vimperator/info/default/history*
 .vimperator/info/default/local*
-.config/awesome/themes/*
+.config/awesome/themes/
 !.config/awesome/themes/anon/
 !.config/awesome/themes/cesious/
 !.config/awesome/themes/cesious_dark/
