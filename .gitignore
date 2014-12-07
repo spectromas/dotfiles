@@ -6,7 +6,7 @@
 .weechat/sec.conf
 .vimperator/info/default/history*
 .vimperator/info/default/local*
-.config/awesome/themes/
+.config/awesome/themes/*
 !.config/awesome/themes/anon/
 !.config/awesome/themes/cesious/
 !.config/awesome/themes/cesious_dark/
@@ -15,6 +15,6 @@
 !.config/awesome/themes/zenburn/
 .mpv/watch_later/
 .ncmpcpp/config.*
-.bin/seq42
-.bin/sunvox
-.bin/Tracktion
+bin/seq42
+bin/sunvox
+bin/Tracktion
