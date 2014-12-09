@@ -57,10 +57,10 @@ urxvt*italicFont:       xft:Termsyn:italic:size=10:antialias=false
 !URxvt*italicFont: 	xft:Fira Mono OT:style=italic:antialias=true:pixelsize=11
 !URxvt*boldItalicFont: 	xft:Fira Mono OT:style=bolditalic:antialias=true:pixelsize=11
 
-!URxvt*font: 		xft:Droid Sans Mono:antialias=true:pixelsize=11
-!URxvt*boldFont: 	xft:Droid Sans Mono:style=bold:antialias=true:pixelsize=11
-!URxvt*italicFont: 	xft:Droid Sans Mono:style=italic:antialias=true:pixelsize=11
-!URxvt*boldItalicFont: 	xft:Droid Sans Mono:style=bolditalic:antialias=true:pixelsize=11
+!URxvt*font: 		xft:Droid Sans Mono:antialias=true:pixelsize=10
+!URxvt*boldFont: 	xft:Droid Sans Mono:style=bold:antialias=true:pixelsize=10
+!URxvt*italicFont: 	xft:Droid Sans Mono:style=italic:antialias=true:pixelsize=10
+!URxvt*boldItalicFont: 	xft:Droid Sans Mono:style=bolditalic:antialias=true:pixelsize=10
 
 ! URxvt-Perls ------------------------------------------------------
 URxvt*altSendsEscape:       true

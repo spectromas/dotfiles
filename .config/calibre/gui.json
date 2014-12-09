@@ -101,9 +101,9 @@
     "__class__": "bytearray", 
     "__value__": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfQAAAAFAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAABAAAB9AAAAAUAAAAA"
   }, 
-  "jobs_dialog_geometry": {
+  "plugin config dialog:User Interface Action:Find Duplicates": {
     "__class__": "bytearray", 
-    "__value__": "AdnQywABAAAAAAABAAAA4QAAAnsAAAMAAAAAAgAAAOIAAAJ6AAAC/wAAAAAAAA=="
+    "__value__": "AdnQywABAAAAAAACAAACbAAAAOwAAAL/AAAAAgAAAmwAAADsAAAC/wAAAAAAAA=="
   }, 
   "goodreads sync plugin:shelves sync dialog": {
     "__class__": "bytearray", 
@@ -149,7 +149,7 @@
   }, 
   "show_emblems": false, 
   "library_usage_stats": {
-    "/home/alex/Documents/Ebooks Library": 155, 
+    "/home/alex/Documents/Ebooks Library": 158, 
     "/home/alex/Documents/Ebooks": 4
   }, 
   "Plugin Updater plugin:plugin updater dialog": {
@@ -179,10 +179,11 @@
     "Reading List", 
     "Goodreads Sync"
   ], 
-  "goodreads sync plugin:do shelf sync dialog": {
-    "__class__": "bytearray", 
-    "__value__": "AdnQywABAAAAAAFDAAAALQAABDIAAALmAAABQwAAAC0AAAQyAAAC5gAAAAAAAA=="
-  }, 
+  "cover_grid_color": [
+    232, 
+    232, 
+    232
+  ], 
   "goodreads sync plugin:do shelf sync dialog:auto match": true, 
   "reading list plugin:move books dialog": {
     "__class__": "bytearray", 
@@ -196,7 +197,7 @@
   "book_info_dialog_layout": [
     {
       "__class__": "bytearray", 
-      "__value__": "AdnQywABAAAAAAACAAAAYgAAAsEAAAMBAAAABAAAAGQAAAK/AAAC/wAAAAAAAA=="
+      "__value__": "AdnQywABAAAAAAAAAAAAYAAAAr8AAAL/AAAAAgAAAGIAAAK9AAAC/QAAAAAAAA=="
     }, 
     {
       "__class__": "bytearray", 
@@ -211,15 +212,14 @@
     "display_active_shelves": true
   }, 
   "ui_style": "calibre", 
-  "show_highlight_toggle_button": true, 
+  "cover_browser_splitter_horizontal_state": [
+    false, 
+    550
+  ], 
   "cover_grid_disk_cache_size": 300, 
-  "goodreads sync plugin:shelves sync dialog:other_prefs": {
-    "last_selected_shelves": [
-      "read", 
-      "currently-reading", 
-      "to-read"
-    ], 
-    "display_active_shelves": true
+  "metasingle_window_geometry3": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywABAAAAAAAn/////gAABAgAAAKfAAAAKQAAAAAAAAQGAAACnQAAAAAAAA=="
   }, 
   "cover_browser_splitter_vertical_state": [
     false, 
@@ -242,18 +242,18 @@
     "__class__": "bytearray", 
     "__value__": "AdnQywABAAAAAAABAAAAQgAAA0oAAAL+AAAAAQAAAEIAAANKAAAC/gAAAAAAAA=="
   }, 
-  "Prefs Viewer dialog": {
+  "find_duplicates_plugin:library_duplicate_dialog": {
     "__class__": "bytearray", 
-    "__value__": "AdnQywABAAAAAAACAAACDwAAAa8AAAL/AAAAAgAAAg8AAAGvAAAC/wAAAAAAAA=="
+    "__value__": "AdnQywABAAAAAAG2AAAAQwAAA5cAAAK+AAABtwAAAEQAAAOWAAACvQAAAAAAAA=="
   }, 
   "convert_single_dialog_geom": {
     "__class__": "bytearray", 
     "__value__": "AdnQywABAAAAAACnAAAAHgAABKgAAALbAAAAqAAAAB8AAASnAAAC2gAAAAAAAA=="
   }, 
   "tags_browser_partition_method": "first letter", 
-  "find_duplicates_plugin:library_duplicate_dialog": {
+  "Prefs Viewer dialog": {
     "__class__": "bytearray", 
-    "__value__": "AdnQywABAAAAAAG2AAAAQwAAA5cAAAK+AAABtwAAAEQAAAOWAAACvQAAAAAAAA=="
+    "__value__": "AdnQywABAAAAAAACAAACDwAAAa8AAAL/AAAAAgAAAg8AAAGvAAAC/wAAAAAAAA=="
   }, 
   "goodreads sync plugin:maintain sync action dialog": {
     "__class__": "bytearray", 
@@ -265,22 +265,26 @@
     "series": true, 
     "author_sort": true, 
     "marked": true, 
-    "authors": true, 
     "timestamp": false, 
+    "authors": true, 
     "#formats": true
   }, 
   "metadata_single_gui_geom": {
     "__class__": "bytearray", 
-    "__value__": "AdnQywABAAAAAAC0AAAAXAAABMAAAAK3AAAAtgAAAF4AAAS+AAACtQAAAAAAAA=="
+    "__value__": "AdnQywABAAAAAACuAAAAVgAABLoAAAKxAAAAsAAAAFgAAAS4AAACrwAAAAAAAA=="
   }, 
   "cover_grid_texture": null, 
-  "plugin config dialog:User Interface Action:Find Duplicates": {
+  "jobs_dialog_geometry": {
     "__class__": "bytearray", 
-    "__value__": "AdnQywABAAAAAAACAAACbAAAAOwAAAL/AAAAAgAAAmwAAADsAAAC/wAAAAAAAA=="
+    "__value__": "AdnQywABAAAAAAABAAAA4QAAAnsAAAMAAAAAAgAAAOIAAAJ6AAAC/wAAAAAAAA=="
   }, 
-  "metasingle_window_geometry3": {
-    "__class__": "bytearray", 
-    "__value__": "AdnQywABAAAAAAA9/////gAABB4AAAKfAAAAPwAAAAAAAAQcAAACnQAAAAAAAA=="
+  "goodreads sync plugin:shelves sync dialog:other_prefs": {
+    "last_selected_shelves": [
+      "read", 
+      "currently-reading", 
+      "to-read"
+    ], 
+    "display_active_shelves": true
   }, 
   "show_splash_screen": true, 
   "toolbar_icon_size": "small", 
@@ -330,10 +334,7 @@
     "__class__": "bytearray", 
     "__value__": "AdnQywABAAAAAAACAAAClwAAAPkAAAL/AAAAAgAAApcAAAD5AAAC/wAAAAAAAA=="
   }, 
-  "cover_browser_splitter_horizontal_state": [
-    false, 
-    550
-  ], 
+  "show_highlight_toggle_button": true, 
   "action-layout-toolbar-device": [
     "Add Books", 
     "Edit Metadata", 
@@ -365,11 +366,10 @@
   "cover_grid_width": 0.0, 
   "bulk_metadata_window_tab": 0, 
   "cover_grid_show_title": false, 
-  "cover_grid_color": [
-    232, 
-    232, 
-    232
-  ], 
+  "goodreads sync plugin:do shelf sync dialog": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywABAAAAAAFDAAAALQAABDIAAALmAAABQwAAAC0AAAQyAAAC5gAAAAAAAA=="
+  }, 
   "preferences_window_geometry": {
     "__class__": "bytearray", 
     "__value__": "AdnQywABAAAAAAACAAAADwAABVcAAAMBAAAABAAAABEAAAVVAAAC/wAAAAAAAA=="

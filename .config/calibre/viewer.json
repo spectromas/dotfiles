@@ -7,18 +7,34 @@
   "multiplier": 1.0, 
   "main_window_state": {
     "__class__": "bytearray", 
-    "__value__": "AAAA/wAAAAL9AAAAAgAAAAAAAACcAAACz/wCAAAAAfsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAgAAACzwAAAGYA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABwAYgBvAG8AawBtAGEAcgBrAHMALQBkAG8AYwBrAAAAAAD/////AAAA3wD///8AAAUYAAACzwAAAAQAAAAEAAAACAAAAAj8AAAABwAAAAAAAAAAAAAAAAAAAAEAAAAQAHQAbwBvAGwAXwBiAGEAcgMAAAAA/////wAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAEgB0AG8AbwBsAF8AYgBhAHIAMgEAAAAA/////wAAAAAAAAAAAAAAAwAAAAAAAAADAAAAAA=="
+    "__value__": "AAAA/wAAAAL9AAAAAgAAAAAAAACcAAACz/wCAAAAAfsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAgAAACzwAAAGYA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABwAYgBvAG8AawBtAGEAcgBrAHMALQBkAG8AYwBrAAAAAAD/////AAAA3gD///8AAAUYAAACzwAAAAQAAAAEAAAACAAAAAj8AAAABwAAAAAAAAAAAAAAAAAAAAEAAAAQAHQAbwBvAGwAXwBiAGEAcgMAAAAA/////wAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAEgB0AG8AbwBsAF8AYgBhAHIAMgEAAAAA/////wAAAAAAAAAAAAAAAwAAAAAAAAADAAAAAA=="
   }, 
   "in_paged_mode": true, 
   "viewer_window_geometry": {
     "__class__": "bytearray", 
-    "__value__": "AdnQywABAAAAAAAAAAAADQAABVUAAAL/AAAAAAAAAAD////+/////gAAAAACAA=="
+    "__value__": "AdnQywABAAD////+/////gAABVMAAALwAAAAAAAAAAD////+/////gAAAAACAA=="
   }, 
   "viewer_splitter_state": {
     "__class__": "bytearray", 
     "__value__": "AAAA/wAAAAAAAAACAAAAyAAABD8AAAAABwEAAAAB"
   }, 
   "viewer_open_history": [
+    "/home/alex/Documents/Ebooks Library/Ray Bradbury/Fahrenheit 451 (43)/Fahrenheit 451 - Ray Bradbury.epub", 
+    "/home/alex/Documents/Ebooks Library/Margaret Atwood/Cat's Eye (1206)/Cat's Eye - Margaret Atwood.epub", 
+    "/home/alex/Documents/Ebooks Library/Brian Aldiss/Hothouse (1001)/Hothouse - Brian Aldiss.epub", 
+    "/home/alex/Documents/Ebooks Library/Yevgeny Zamyatin/We (910)/We - Yevgeny Zamyatin.mobi", 
+    "/home/alex/Documents/Ebooks Library/Walter Scott/Ivanhoe (877)/Ivanhoe - Walter Scott.epub", 
+    "/home/alex/Documents/Ebooks Library/Khaled Hosseini/And the Mountains Echoed (133)/And the Mountains Echoed - Khaled Hosseini.epub", 
+    "/home/alex/Documents/Ebooks Library/Ernest Hemingway/For Whom the Bell Tolls (110)/For Whom the Bell Tolls - Ernest Hemingway.epub", 
+    "/home/alex/Documents/Ebooks Library/Charles Bukowski/Post Office_ A Novel (49)/Post Office_ A Novel - Charles Bukowski.epub", 
+    "/home/alex/Documents/Ebooks Library/Irvine Welsh/Skagboys (610)/Skagboys - Irvine Welsh.epub", 
+    "/home/alex/Documents/Ebooks Library/Mark Twain/Tom Sawyer Abroad_Tom Sawyer, Detective (Mark Twain Library) (1025)/Tom Sawyer Abroad_Tom Sawyer, Detective (M - Mark Twain.epub", 
+    "/home/alex/Documents/Ebooks Library/Mark Twain/The Prince and the Pauper (899)/The Prince and the Pauper - Mark Twain.epub", 
+    "/home/alex/Documents/Ebooks Library/John Steinbeck/East of Eden (874)/East of Eden - John Steinbeck.epub", 
+    "/home/alex/Documents/Ebooks Library/Thomas Pynchon/Bleeding Edge (1177)/Bleeding Edge - Thomas Pynchon.mobi", 
+    "/home/alex/Documents/Ebooks Library/Neil Gaiman/Anansi Boys (655)/Anansi Boys - Neil Gaiman.epub", 
+    "/home/alex/Documents/Ebooks Library/Charles Dickens/Nicholas Nickleby (957)/Nicholas Nickleby - Charles Dickens.epub", 
+    "/home/alex/Documents/Ebooks Library/Paolo Bacigalupi/The Drowned Cities (22)/The Drowned Cities - Paolo Bacigalupi.epub", 
     "/home/alex/Documents/Ebooks Library/Isaac Asimov/I, Robot (911)/I, Robot - Isaac Asimov.epub", 
     "/home/alex/Downloads/Asimov, Isaac - [Robot 1] - I, Robot .epub", 
     "/home/alex/Downloads/[Frederik_Pohl]_Man_Plus_(SF_Masterworks)_(Sf_Mast(BookZZ.org).epub", 
@@ -52,22 +68,6 @@
     "/home/alex/Documents/Ebooks Library/Thomas Pynchon/Gravity's Rainbow (1194)/Gravity's Rainbow - Thomas Pynchon.epub", 
     "/home/alex/Documents/Ebooks Library/Thomas Pynchon/The Crying of Lot 49 (1199)/The Crying of Lot 49 - Thomas Pynchon.epub", 
     "/home/alex/Documents/Ebooks Library/Vladimir Nabokov/Lolita (182)/Lolita - Vladimir Nabokov.epub", 
-    "/home/alex/Documents/Ebooks Library/Philip K. Dick/Do Androids Dream of Electric Sheep_ (909)/Do Androids Dream of Electric Sheep_ - Philip K. Dick.epub", 
-    "/home/alex/Documents/Ebooks Library/Leo Tolstoy/Anna Karenina (901)/Anna Karenina - Leo Tolstoy.epub", 
-    "/home/alex/Documents/Ebooks Library/Chinua Achebe/Chike and the River (1)/Chike and the River - Chinua Achebe.epub", 
-    "/home/alex/Downloads/pg44117.epub", 
-    "/home/alex/Documents/Ebooks Library/Charles Dickens/Little Dorrit (1111)/Little Dorrit - Charles Dickens.epub", 
-    "/home/alex/Documents/Ebooks Library/Kurt Vonnegut/Slaughterhouse-Five (605)/Slaughterhouse-Five - Kurt Vonnegut.epub", 
-    "/home/alex/Downloads/Leo Tolstoy, Richard Pevear, Larissa Volokhonsky-Anna Karenina-Penguin Classics (2004).epub", 
-    "/home/alex/Documents/Ebooks Library/Leo Tolstoy/Anna Karenina (901)/Anna Karenina - Leo Tolstoy.mobi", 
-    "/home/alex/Downloads/Torrents/War and Peace (Penguin Classics)/War and Peace (Penguin Classics - Leo Tolstoy.epub", 
-    "/home/alex/Downloads/War-and-Peace-by-Leo-Tolstoy.epub", 
-    "/home/alex/Downloads/pg2600.epub", 
-    "/home/alex/Documents/Ebooks Library/Voltaire/Candide (656)/Candide - Voltaire.epub", 
-    "/home/alex/Documents/Ebooks Library/Charles Dickens/The Mystery of Edwin Drood (1139)/The Mystery of Edwin Drood - Charles Dickens.epub", 
-    "/home/alex/Documents/Ebooks Library/Nikolai Gogol/The Overcoat (904)/The Overcoat - Nikolai Gogol.epub", 
-    "/home/alex/Documents/Ebooks Library/Leo Tolstoy/Walk in the Light & Twenty-Three Tales (1051)/Walk in the Light & Twenty-Three Tales - Leo Tolstoy.pdf", 
-    "/home/alex/Downloads/hg140212e/Valentine-The_Collected_Connoisseur.epub", 
-    "/home/alex/Downloads/hg140212e/Valentine-Herald_of_the_Hidden.epub"
+    "/home/alex/Documents/Ebooks Library/Philip K. Dick/Do Androids Dream of Electric Sheep_ (909)/Do Androids Dream of Electric Sheep_ - Philip K. Dick.epub"
   ]
 }
